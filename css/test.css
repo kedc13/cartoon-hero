@@ -1,0 +1,32 @@
+<style type="text/css">
+		h1{
+			color: orange;
+			font-size: 90px;
+			text-decoration: underline;
+		}
+		h2{
+			font-size: 22px;
+			color: green;
+		}
+		#first{
+
+			font-size: 90px;
+		}
+		.small{
+
+			font-size: 12px;
+		}
+		.large{
+			font-size: 62px;
+		}
+		span{
+
+			font-style: italic;
+		}
+
+		h2 span{
+
+			text-decoration: line-through;
+		}
+
+	</style>
